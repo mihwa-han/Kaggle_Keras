@@ -1,1 +1,1 @@
-# Kaggle_Keras
+# Keras tutorial for Beginners
